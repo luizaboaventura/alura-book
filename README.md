@@ -10,6 +10,7 @@ Projeto desenvolvido durante o curso de <strong>Responsividade Mobile-First</str
 ## 💻 Tecnologias 
 - HTML
 - CSS
+- Swiper API
 
 ## 🚀 Deploy
 
